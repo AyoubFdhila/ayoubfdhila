@@ -1,24 +1,37 @@
 <!-- Cover Image -->
 <p align="center">
-  <img src="your_cover_image_url" alt="Cover Image" width="100%" />
+  <img src="cover.png" alt="Cover Image" width="100%" />
 </p>
+<br>
 
 <!-- Animated Typing SVG -->
 <p align="center">
   <a href="#">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=2000&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=AI%2FML+Engineer;Full+Stack+Developer;Innovator" alt="Typing Animation" />
-  </a>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=800&lines=%F0%9F%91%8B+Welcome+to+My+GitHub+Profile!;%F0%9F%A7%A9+AI%2FML+Engineer;%F0%9F%92%BB+Full+Stack+Developer;%F0%9F%9A%80+Innovator+and+Problem+Solver;%F0%9F%93%9A+Lifelong+Learner" alt="Typing Animation" />
+      </a>
 </p>
 
 ## 🌟 About Me
 
-I'm **Ayoub Fdhila**, an AI/ML Engineer and passionate problem-solver based in **Sousse, Tunisia**. I specialize in bridging cutting-edge **AI technologies** with real-world applications, particularly in **Deep Learning**, **Computer Vision**, and innovative solutions that make a significant impact.
+Hi, I'm **Ayoub Fdhila**, an **AI/ML Engineer** with a deep-rooted passion for artificial intelligence. My fascination with machine learning began early and has guided my journey through the evolving tech landscape.
 
-# 👋 Welcome to Ayoub Fdhila's GitHub Profile!
+I specialize in developing AI solutions that address real-world challenges. With a strong background in backend development, I build systems that are efficient and scalable.
 
-Hi there! I'm **Ayoub Fdhila**, an **AI/ML Engineer** and passionate problem-solver based in **Sousse, Tunisia**. My work bridges cutting-edge **AI technologies** and real-world applications, with a special knack for **Deep Learning**, **Computer Vision**, and **innovative solutions** that make an impact.
+My work has been recognized nationally and internationally, including honors at **Stars of Science** and **GITEX Global**, reinforcing my belief in innovation's power to drive meaningful change.
 
-Whether you're a **collaborator**, **employer**, or just a curious soul, this space is your gateway to my tech journey!
+I thrive in collaborative environments and have led diverse teams on multiple projects, learning that the best solutions often emerge from shared ideas.
+
+I'm committed to continuous learning and staying updated on the latest advancements in AI and machine learning. I'm always looking for opportunities to apply new knowledge in practical ways.
+
+**Let's Connect:** I'm open to collaborating with professionals in AI/ML and Data Science. Whether it's for a project or to exchange ideas, feel free to reach out!
+
+<!-- Contact Me -->
+<p align="center">
+  <a href="mailto:fdhila.ayoub@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/ayoub-fdhila/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white"></a>
+  <a href="https://github.com/AyoubFdhila"><img src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white"></a>
+  <a href="https://facebook.com/ayoub.fdhila/"><img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white"></a>
+</p>
 
 ---
 
@@ -31,44 +44,137 @@ Whether you're a **collaborator**, **employer**, or just a curious soul, this sp
 
 ---
 
-## 🏆 **Highlights & Achievements**
+## 🏆 Highlights & Achievements
 
-### **🎖 Awards & Competitions**
+<div align="center">
 
-- **Stars of Science Finalist (2024):** Among the top 10 innovators in the Arab world.
-- **Arab AI & IoT Competition (2023):** 3rd place at **GITEX Global**, showcasing my AI-driven solutions.
-- **Tunisia AI & IoT Winner (2023):** National champion for my practical and creative **AI & IoT solutions**.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🎖 Awards & Competitions</h3>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🎓 Certifications</h3>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top"><strong>Stars of Science</strong>: Top 10 Finalist</td>
+    <td valign="top"><strong>Deep Learning Specialization</strong>: DeepLearning.AI</td>
+  </tr>
+  <tr>
+    <td valign="top"><strong>Arab AI & IoT Competition</strong>: Third Place</td>
+    <td valign="top"><strong>Data Science Professional Certificate</strong>: IBM</td>
+  </tr>
+  <tr>
+    <td valign="top"><strong>Tunisia AI & IoT Competition</strong>: National Winner</td>
+    <td valign="top"><strong>Entrepreneurship Specialization</strong>: Wharton University</td>
+  </tr>
+  <tr>
+    <td valign="top"><strong>AI Night Challenge</strong>: First Place</td>
+    <td valign="top"><strong>Machine Learning Specialization</strong>: Stanford University</td>
+  </tr>
+</table>
 
-### **🎓 Certifications**
+</div>
 
-- **Deep Learning Specialization** — DeepLearning.AI (2024)
-- **Data Science Professional Certificate** — IBM (2024)
-- **Entrepreneurship Specialization** — Wharton University (2023)
-- **Machine Learning Specialization** — Stanford University (2023)
+## ⚙️ Technical Toolkit
 
----
+### Programming Languages
 
-## ⚙️ **Technical Toolkit**
+<p align="left">
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  </a>
+  <a href="https://www.javascript.com/" target="_blank">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank">
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  </a>
+</p>
 
-### **Programming Languages**
+### AI/ML Frameworks
 
-`Python` | `JavaScript` | `TypeScript` | `C` | `C++`
+<p align="left">
+  <a href="https://www.tensorflow.org/" target="_blank">
+    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  </a>
+  <a href="https://pytorch.org/" target="_blank">
+    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
+  </a>
+  <a href="https://scikit-learn.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="Scikit-Learn" />
+  </a>
+  <a href="https://keras.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white" alt="Keras" />
+  </a>
+  <a href="https://opencv.org/" target="_blank">
+    <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV" />
+  </a>
+  <a href="https://www.nltk.org/" target="_blank">
+    <img src="https://img.shields.io/badge/NLTK-0096FF?style=flat-square&logo=python&logoColor=white" alt="NLTK" />
+  </a>
+  <a href="https://www.huggingface.co/" target="_blank">
+    <img src="https://img.shields.io/badge/HuggingFace-FFAE1A?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face" />
+  </a>
+  <a href="https://xgboost.readthedocs.io/" target="_blank">
+    <img src="https://img.shields.io/badge/XGBoost-AA4A44?style=flat-square&logo=xgboost&logoColor=white" alt="XGBoost" />
+  </a>
+  <a href="https://lightgbm.readthedocs.io/" target="_blank">
+    <img src="https://img.shields.io/badge/LightGBM-02569B?style=flat-square&logo=lightgbm&logoColor=white" alt="LightGBM" />
+  </a>
+  <a href="https://www.pandas.pydata.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
+  </a>
+</p>
 
-### **AI/ML Frameworks**
+### Software Development
 
-`TensorFlow` | `PyTorch` | `Scikit-learn` | `Keras` | `OpenCV`
+<p align="left">
+  <a href="https://flask.palletsprojects.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask" />
+  </a>
+  <a href="https://www.djangoproject.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django" />
+  </a>
+  <a href="https://nodejs.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  </a>
+  <a href="https://reactjs.org/" target="_blank">
+    <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React.js" />
+  </a>
+  <a href="https://www.docker.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  </a>
+  <a href="https://aws.amazon.com/" target="_blank">
+    <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS" />
+  </a>
+  <a href="https://kubernetes.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+  </a>
+  <a href="https://graphql.org/" target="_blank">
+    <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" alt="GraphQL" />
+  </a>
+  <a href="https://www.postgresql.org/" target="_blank">
+    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank">
+    <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+  </a>
+</p>
 
-### **Software Development**
+### Specialized Skills
 
-`Flask` | `Django` | `Node.js` | `React.js` | `Docker` | `AWS` | `SQL` | `NoSQL`
-
-### **Specialized Skills**
-
-- Computer Vision (CV)
-- Natural Language Processing (NLP)
-- Large Language Models (LLMs)
-- Reinforcement Learning (RL)
-- Prompt Engineering & Retrieval-Augmented Generation (RAG)
+<p align="left">
+  <img src="https://img.shields.io/badge/Computer%20Vision-FF6F00?style=flat-square&logo=opencv&logoColor=white" alt="Computer Vision" />
+  <img src="https://img.shields.io/badge/NLP-00897B?style=flat-square&logo=apache-spark&logoColor=white" alt="Natural Language Processing" />
+  <img src="https://img.shields.io/badge/LLMs-4285F4?style=flat-square&logo=google&logoColor=white" alt="Large Language Models" />
+  <img src="https://img.shields.io/badge/Reinforcement%20Learning-FF0000?style=flat-square&logo=deepmind&logoColor=white" alt="Reinforcement Learning" />
+  <img src="https://img.shields.io/badge/Prompt%20Engineering%20%26%20RAG-9C27B0?style=flat-square&logo=openai&logoColor=white" alt="Prompt Engineering & RAG" />
+  <img src="https://img.shields.io/badge/Time%20Series%20Analysis-FF9800?style=flat-square&logo=timeline&logoColor=white" alt="Time Series Analysis" />
+  <img src="https://img.shields.io/badge/Recommendation%20Systems-00C853?style=flat-square&logo=recommender&logoColor=white" alt="Recommendation Systems" />
+  <img src="https://img.shields.io/badge/Data%20Mining-795548?style=flat-square&logo=data:image/png;base64,[BASE64_ENCODED_LOGO]" alt="Data Mining" />
+</p>
 
 ---
 
@@ -76,48 +182,7 @@ Whether you're a **collaborator**, **employer**, or just a curious soul, this sp
 
 - **🎤 Public Speaker:** Sharing insights and inspiring young minds through tech workshops and events.
 - **🧑‍🤝‍🧑 Team Leader:** Driving innovation with a multidisciplinary mindset.
-- **🌱 Advocate for Sustainability:** Promoting tech for societal and environmental well-being.
-
----
-
-## 💬 **Languages**
-
-- **English** (Fluent)
-- **French** (Fluent)
-- **Arabic** (Native)
-- **German** (Conversational)
-
----
-
-## 🚀 **Let's Collaborate!**
-
-🤝 I'm always open to:
-
-- Building **cutting-edge AI solutions**.
-- Exploring **creative collaborations**.
-- Discussing **career opportunities**.
-
-Feel free to **reach out** or connect with me:
-
-- ✉️ [Email Me](mailto:fdhila.ayoub@gmail.com)
-- 🌐 [GitHub](https://github.com/) | [LinkedIn](https://linkedin.com/)
-
----
-
-## 🔥 **Fun Facts**
-
-- 🧠 I’m fascinated by **brain tumor segmentation** and **video analysis** projects.
-- 🚀 I'm a fan of exploring **AI for social good**.
-- 🎯 I strive for **precision, efficiency**, and a touch of **creativity** in everything I do!
-
----
-
-### **✨ Animated GitHub Stats**
-
-<!-- Center the entire layout -->
-<p align="center">
-  <b>✨ Animated GitHub Stats ✨</b>
-</p>
+- **🌱 Advocate for Sustainability:** Promoting tech for societal and environmental well-being.s
 
 <table align="center">
   <tr>
@@ -129,16 +194,9 @@ Feel free to **reach out** or connect with me:
     </td>
     <!-- Most Used Languages -->
     <td>
-      <a href="https://github-readme-stats-five-azure-17.vercel.app/api/top-langs/?username=AyoubFdhila&layout=compact&theme=radical">
-        <img src="https://github-readme-stats-five-azure-17.vercel.app/api/top-langs/?username=AyoubFdhila&layout=compact&theme=radical" alt="Most Used Languages" />
-      </a>
+      <a href="https://github-readme-streak-stats.herokuapp.com/?user=AyoubFdhila&theme=dark">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AyoubFdhila&theme=dark" alt="GitHub Streak Stats" />
+  </a>
     </td>
   </tr>
 </table>
-
-<!-- GitHub Streak Stats -->
-<p align="center">
-  <a href="https://github-readme-streak-stats.herokuapp.com/?user=AyoubFdhila&theme=dark">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AyoubFdhila&theme=dark" alt="GitHub Streak Stats" />
-  </a>
-</p>
