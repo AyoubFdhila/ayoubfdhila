@@ -7,23 +7,19 @@
 <!-- Animated Typing SVG -->
 <p align="center">
   <a href="#">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=800&lines=%F0%9F%91%8B+Welcome+to+My+GitHub+Profile!;%F0%9F%A7%A9+AI%2FML+Engineer;%F0%9F%92%BB+Full+Stack+Developer;%F0%9F%9A%80+Innovator+and+Problem+Solver;%F0%9F%93%9A+Lifelong+Learner" alt="Typing Animation" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=800&lines=%F0%9F%91%8B+Welcome+to+My+GitHub+Profile!;%F0%9F%92%BB+Full+Stack+Developer;%F0%9F%A7%A9+AI+Engineer;%F0%9F%9A%80+Innovator+and+Problem+Solver;%F0%9F%93%9A+Lifelong+Learner" alt="Typing Animation" />
       </a>
 </p>
 
 ## 🌟 About Me
 
-Hi, I'm **Ayoub Fdhila**, an **AI/ML Engineer** with a deep-rooted passion for artificial intelligence. My fascination with machine learning began early and has guided my journey through the evolving tech landscape.
+Hi, I'm **Ayoub Fdhila**. I am an **Full Stack Developer** and **AI Engineer** focused on building production-ready applications.
 
-I specialize in developing AI solutions that address real-world challenges. With a strong background in backend development, I build systems that are efficient and scalable.
+I don't just train models; I build the infrastructure around them. My experience spans the full lifecycle—from data engineering and model training to deployment and backend integration. I enjoy solving difficult technical problems and writing clean, maintainable code.
 
-My work has been recognized nationally and internationally, including honors at **Stars of Science** and **GITEX Global**, reinforcing my belief in innovation's power to drive meaningful change.
+My work has been technically validated through competitions like **Stars of Science** and **GITEX Global**, where I demonstrated practical applications of my code.
 
-I thrive in collaborative environments and have led diverse teams on multiple projects, learning that the best solutions often emerge from shared ideas.
-
-I'm committed to continuous learning and staying updated on the latest advancements in AI and machine learning. I'm always looking for opportunities to apply new knowledge in practical ways.
-
-**Let's Connect:** I'm open to collaborating with professionals in AI/ML and Data Science. Whether it's for a project or to exchange ideas, feel free to reach out!
+I prefer working in collaborative teams where I can contribute to architecture decisions and learn from others.
 
 <!-- Contact Me -->
 <p align="center">
@@ -37,8 +33,8 @@ I'm committed to continuous learning and staying updated on the latest advanceme
 
 ## 🔭 **Who Am I?**
 
-- 🌟 **AI/ML Enthusiast:** I thrive on pushing the boundaries of **AI** to tackle complex challenges.
 - 💻 **Full-Stack Developer:** I bring ideas to life with robust, scalable applications.
+- 🌟 **AI/ML Enthusiast:** I thrive on pushing the boundaries of **AI** to tackle complex challenges.
 - 🧩 **Innovator:** From award-winning projects to groundbreaking competitions, I'm all about creativity and impact.
 - 🌱 **Continuous Learner:** When I'm not coding, I'm exploring the **latest in AI research** or honing my **entrepreneurial skills**.
 
@@ -93,41 +89,6 @@ I'm committed to continuous learning and staying updated on the latest advanceme
   </a>
 </p>
 
-### AI/ML Frameworks
-
-<p align="left">
-  <a href="https://www.tensorflow.org/" target="_blank">
-    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-  </a>
-  <a href="https://pytorch.org/" target="_blank">
-    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
-  </a>
-  <a href="https://scikit-learn.org/" target="_blank">
-    <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="Scikit-Learn" />
-  </a>
-  <a href="https://keras.io/" target="_blank">
-    <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white" alt="Keras" />
-  </a>
-  <a href="https://opencv.org/" target="_blank">
-    <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV" />
-  </a>
-  <a href="https://www.nltk.org/" target="_blank">
-    <img src="https://img.shields.io/badge/NLTK-0096FF?style=flat-square&logo=python&logoColor=white" alt="NLTK" />
-  </a>
-  <a href="https://www.huggingface.co/" target="_blank">
-    <img src="https://img.shields.io/badge/HuggingFace-FFAE1A?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face" />
-  </a>
-  <a href="https://xgboost.readthedocs.io/" target="_blank">
-    <img src="https://img.shields.io/badge/XGBoost-AA4A44?style=flat-square&logo=xgboost&logoColor=white" alt="XGBoost" />
-  </a>
-  <a href="https://lightgbm.readthedocs.io/" target="_blank">
-    <img src="https://img.shields.io/badge/LightGBM-02569B?style=flat-square&logo=lightgbm&logoColor=white" alt="LightGBM" />
-  </a>
-  <a href="https://www.pandas.pydata.org/" target="_blank">
-    <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
-  </a>
-</p>
-
 ### Software Development
 
 <p align="left">
@@ -163,6 +124,41 @@ I'm committed to continuous learning and staying updated on the latest advanceme
   </a>
 </p>
 
+### AI/ML Frameworks
+
+<p align="left">
+  <a href="https://www.tensorflow.org/" target="_blank">
+    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  </a>
+  <a href="https://pytorch.org/" target="_blank">
+    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
+  </a>
+  <a href="https://scikit-learn.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="Scikit-Learn" />
+  </a>
+  <a href="https://keras.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white" alt="Keras" />
+  </a>
+  <a href="https://opencv.org/" target="_blank">
+    <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV" />
+  </a>
+  <a href="https://www.nltk.org/" target="_blank">
+    <img src="https://img.shields.io/badge/NLTK-0096FF?style=flat-square&logo=python&logoColor=white" alt="NLTK" />
+  </a>
+  <a href="https://www.huggingface.co/" target="_blank">
+    <img src="https://img.shields.io/badge/HuggingFace-FFAE1A?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face" />
+  </a>
+  <a href="https://xgboost.readthedocs.io/" target="_blank">
+    <img src="https://img.shields.io/badge/XGBoost-AA4A44?style=flat-square&logo=xgboost&logoColor=white" alt="XGBoost" />
+  </a>
+  <a href="https://lightgbm.readthedocs.io/" target="_blank">
+    <img src="https://img.shields.io/badge/LightGBM-02569B?style=flat-square&logo=lightgbm&logoColor=white" alt="LightGBM" />
+  </a>
+  <a href="https://www.pandas.pydata.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
+  </a>
+</p>
+
 ### Specialized Skills
 
 <p align="left">
@@ -177,12 +173,6 @@ I'm committed to continuous learning and staying updated on the latest advanceme
 </p>
 
 ---
-
-## 🌍 **Beyond Code**
-
-- **🎤 Public Speaker:** Sharing insights and inspiring young minds through tech workshops and events.
-- **🧑‍🤝‍🧑 Team Leader:** Driving innovation with a multidisciplinary mindset.
-- **🌱 Advocate for Sustainability:** Promoting tech for societal and environmental well-being.s
 
 <table align="center">
   <tr>
